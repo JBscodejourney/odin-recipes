@@ -1,2 +1,3 @@
 # odin-recipes
-Project creating first website using html learned so far
+
+ Project creating a recipes website using html learned so far
