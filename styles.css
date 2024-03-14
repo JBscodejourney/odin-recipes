@@ -1,0 +1,28 @@
+#hometitle {
+    font-size: 70px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(37, 128, 2);
+    }
+
+body {
+    text-align: center;
+}
+
+a {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    background-color: yellow;
+}
+
+.chkanbroc {
+    color: #a400b3;
+}
+
+.grndbfnrce {
+    color: hsl(234, 90%, 38%);
+}
+
+.shrmpscmp {
+    color: red;
+}

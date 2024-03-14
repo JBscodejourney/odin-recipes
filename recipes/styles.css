@@ -1,0 +1,38 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 60px;
+    color: #fc0000;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p,ul,ol {
+    font-size: 20px;
+    color: rgb(161, 8, 149);
+    font-weight: bolder;
+}
+
+.descrpt {
+    color: hsl(24, 100%, 50%);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.ingrdnts {
+color: rgb(160, 160, 0);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.stps {
+    color: #00b409;
+    font-family: 'Courier New', Courier, monospace;
+}
